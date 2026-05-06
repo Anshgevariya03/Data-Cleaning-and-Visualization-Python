@@ -1,0 +1,27 @@
+# ✅ LinkedIn Project Post
+
+**Headline:** Just completed an end-to-end Data Cleaning and Visualization Project using Python! 🚀📊
+
+**Description:**
+I’m thrilled to share my latest personal project where I put my Data Analytics skills into practice using a real-world Supermarket Sales dataset! 🛒📈
+
+One of the biggest lessons I've learned is that data in the real world is rarely clean. 🧹 This project was an amazing dive into identifying and fixing those hidden irregularities.
+
+🔍 **What I accomplished:**
+✅ Processed 1,500+ records using Python (Pandas/NumPy).
+✅ Successfully handled missing data blocks via median/mode statistical imputation.
+✅ Detected massive outliers mathematically capping them via the Interquartile Range (IQR) method.
+✅ Formatted and standardized inconsistent typo-laden categorical text data.
+✅ Used Matplotlib & Seaborn to construct 15+ comprehensive visual data reports.
+
+💡 **Core Storytelling Insights extracted:**
+1️⃣ E-Wallet payments have conclusively outpaced traditional credit cards at checkout.
+2️⃣ Product lines like "Electronic Accessories" generate top revenue and require prioritized supply-chain focus.
+3️⃣ Standardizing our loyalty program reach in key demographic branches could bridge the 50/50 membership split.
+
+I am actively open to internship opportunities in Data Science & Data Analytics! 
+Curious about the code? Check it out on my GitHub! 👇 Drop your thoughts on data-cleaning struggles below!
+
+🔗 GitHub Link: [Insert GitHub Link]
+
+#DataAnalytics #Python #Pandas #Seaborn #DataScience #DataCleaning #EDA #DataStorytelling #MachineLearning #TechCareers #DataInternship #Analytics

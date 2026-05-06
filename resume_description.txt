@@ -1,0 +1,8 @@
+💼 **Resume Project Section: Data Cleaning & Visualization Project**
+
+**Data Analyst Project: Supermarket Sales Data Analytics** | Python, Pandas, Matplotlib, Seaborn
+*   Architected an end-to-end data processing pipeline analyzing 1,500+ supermarket sales records to extract key performance demographic metrics.
+*   Conducted rigorous data cleaning, handling 300+ missing identifiers via mode/median imputation, standardizing categorical text, resolving incorrect typings, and deduplicating records safely.
+*   Implemented Outlier Treatment utilizing Interquartile Range (IQR) threshold capping to neutralize artificial revenue spikes without dropping valid data entries.
+*   Constructed an Exploratory Data Analysis (EDA) suite containing 15+ complex univariate, bivariate, and multivariate visualizations via Seaborn and Matplotlib.
+*   Uncovered primary business insights highlighting E-Wallet dominance, target demographic symmetry, and top-selling categories to suggest optimization of branch loyalty programs.

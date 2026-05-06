@@ -1,0 +1,11 @@
+# 🐙 GitHub Repository Description
+
+**Repository Name:** `Data-Cleaning-and-Visualization-Python`
+**About Section / Short Description:** 
+A complete end-to-end Data Analytics project showcasing Data Cleaning, Preprocessing, Outlier Detection, and 15+ EDA visual reports on a Supermarket Sales dataset using Python and Pandas. Designed as an industry-ready portfolio project.
+
+**Topics (Tags):**
+`data-analysis` `data-cleaning` `pandas` `python` `exploratory-data-analysis` `seaborn` `matplotlib` `data-visualization` `jupyter-notebook` `portfolio-project`
+
+---
+*Add this to your GitHub Repository "About" section via the Gear icon.*
